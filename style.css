@@ -19,3 +19,14 @@ article .why{color:#cfe0f7;font-size:15px;border-left:3px solid var(--accent);pa
 footer{color:var(--muted);font-size:13px;padding:30px 20px;text-align:center}
 ul.list{list-style:none;padding:0}
 ul.list li{padding:8px 0;border-bottom:1px solid #22314d}
+.text{font-size:16px;line-height:1.7;color:#e7eefb}
+.text p{margin:0 0 12px}
+.share{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0 0;font-size:14px}
+.share span{color:var(--muted)}
+.share a{background:#22375c;border:1px solid #2d4670;border-radius:8px;padding:6px 12px;color:#dce9ff}
+.share a:hover{background:#2d4670;text-decoration:none}
+.subscribe{margin:22px 0 0;padding:16px 18px;background:#122a49;border:1px solid #2d4670;
+  border-left:4px solid var(--accent);border-radius:12px}
+.subscribe b{font-size:17px}
+.subscribe p{color:var(--muted);margin:6px 0 12px;font-size:14px}
+.cta.ghost{background:transparent;color:var(--accent);border:1px solid var(--accent);font-weight:600}
