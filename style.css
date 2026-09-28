@@ -21,6 +21,11 @@ ul.list{list-style:none;padding:0}
 ul.list li{padding:8px 0;border-bottom:1px solid #22314d}
 .text{font-size:16px;line-height:1.7;color:#e7eefb}
 .text p{margin:0 0 12px}
+.text h2{font-size:21px;margin:22px 0 10px;color:#fff}
+.text h3{font-size:18px;margin:18px 0 8px;color:#fff}
+.text ul,.text ol{margin:0 0 12px;padding-left:22px}
+.text li{margin:0 0 6px}
+.text blockquote{margin:0 0 12px;padding:10px 16px;border-left:3px solid var(--accent);background:#16233d;color:#cfe0f7}
 .share{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:16px 0 0;font-size:14px}
 .share span{color:var(--muted)}
 .share a{background:#22375c;border:1px solid #2d4670;border-radius:8px;padding:6px 12px;color:#dce9ff}
